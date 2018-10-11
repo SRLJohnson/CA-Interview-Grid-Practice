@@ -36,14 +36,14 @@ a {
 
 .teresa-jenkins {
   position: absolute;
-  top: 200px;
+  bottom: -150px;
   left: 150px;
   color: #FFFFFF;
-  font-family: "PT Sans";
+  font-family: 'Poller One', cursive;
   font-weight: bold;
-  font-size: 10vw;
+  font-size: 7vw;
   letter-spacing: -1px;
-  line-height: 146px;
+  line-height: 100px;
 }
 
 /*Add grid rule set and properties here:*/
