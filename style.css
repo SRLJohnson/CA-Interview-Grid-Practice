@@ -13,7 +13,7 @@ body {
 }
 
 a {
-  color: #8840A7
+  color: #A05C11
 }
 
 .header-content {
@@ -31,6 +31,7 @@ a {
   top: 50px;
   left: 150px;
   width: 250px;
+  border: 3px solid white;
 }
 
 .teresa-jenkins {
@@ -40,7 +41,7 @@ a {
   color: #FFFFFF;
   font-family: "PT Sans";
   font-weight: bold;
-  font-size: 12vw;
+  font-size: 10vw;
   letter-spacing: -1px;
   line-height: 146px;
 }
@@ -143,7 +144,7 @@ h4 {
 }
 
 .quote {
-  	color: #8840A7;
+  	color: #A05C11;
   	font-family: "PT Serif";
   	font-size: 36px;
   	font-style: italic;
@@ -160,7 +161,7 @@ h4 {
 }
 
 .info {
-  color: #8840A7;
+  color: #A05C11;
   font-family: "PT Sans";
   font-size: 16px;
   font-weight: bold;
